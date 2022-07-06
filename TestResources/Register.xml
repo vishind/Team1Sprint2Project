@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"> 
+ <suite name="TestSuite" thread-count="1"> 
+ <test name="test"> 
+ <parameter name="Title" value="Mr" />
+ <parameter name="firstName" value="Vishal"/> 
+ <parameter name="surName" value="Shinde"/> 
+ <parameter name="phone" value="9865895896"/> 
+ <parameter name="Year" value="1992"/> 
+ <parameter name="Month" value="December"/> 
+ <parameter name="Date" value="11"/> 
+ <parameter name="Occupat" value="Academic"/> 
+ <parameter name="Street" value="MG Road,Pune"/> 
+ <parameter name="City" value="Pune"/> 
+ <parameter name="Country" value="India"/> 
+ <parameter name="Postcode" value="411025"/> 
+ <parameter name="Email" value="vis1@gmail.com"/> 
+ <parameter name="Password" value="vishal5678"/> 
+ <parameter name="PassConfo" value="vishal5678"/> 
+ <parameter name="Ema" value="vis1@gmail.com"/> 
+ <parameter name="Passw" value="vishal5678"/> 
+ <classes>
+ <class name="DataDriven.RegisterXML" /> 
+ </classes> 
+ </test> 
+ </suite>
+ 
+ 

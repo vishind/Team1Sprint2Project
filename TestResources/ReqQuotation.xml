@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" thread-count="1">
+<test name="test">
+<parameter name="bdc" value="No cover" />
+<parameter name="incidents" value="Car hit" />
+<parameter name="registration" value="OD02AT0001" />
+<parameter name="annualMileage" value="35 kmpl" />
+<parameter name="estimatedValue" value="150000" />
+<parameter name="parkingLoc" value="Public Place" />
+<parameter name="year" value="2016" />
+<parameter name="month" value="February" />
+<parameter name="date" value="15" />
+<classes>
+<class name="DataDriven.ReqQuotXml" />
+</classes>
+</test>
+</suite>

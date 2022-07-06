@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" thread-count="1">
+<test name="test">
+<parameter name="uTitle" value="Miss"/>
+<parameter name="uSurname" value="Majjiga"/>
+<parameter name="uFirstname" value="Pavani"/>
+<parameter name="uPhone" value="9870654321"/>
+<parameter name="uYear" value="1954"/>
+<parameter name="uMonth" value="February"/>
+<parameter name="uDate" value="11"/>
+<parameter name="uYears" value="10"/>
+<parameter name="uOccupation" value="Actor"/>
+<parameter name="uStreet" value="Marathahalli"/>
+<parameter name="uCity" value="banglore"/>
+<parameter name="uCountry" value="india"/>
+<parameter name="uPincode" value="560037"/>
+<classes>
+<class name="DataDriven.EditprofileXML" />
+</classes>
+</test>
+</suite>

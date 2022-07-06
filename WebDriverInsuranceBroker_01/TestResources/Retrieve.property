@@ -1,0 +1,8 @@
+ChromeDriver= D:\Chromedriver\chromedriver_win32\chromedriver.exe
+url=https://demo.guru99.com/insurance/v1/header.php
+RequestQuotation=newquote
+SaveQuotation=submit
+fetchwords=/html[1]/body[1]
+RetriveQuotation=retrieve
+Identificationnumber=//body[1]/div[3]/div[1]/div[3]/form[1]/input[1]
+sumitRetrive=getquote

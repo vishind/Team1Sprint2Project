@@ -1,0 +1,22 @@
+chromeDriver =D:\\Chromedriver\\chromedriver_win32\\chromedriver.exe
+register = Register
+title=user_title
+firstname=user_firstname
+lastname=user_surname
+phone=user_phone
+year=//*[@id=\"user_dateofbirth_1i\"]
+month=user_dateofbirth_2i
+date=user_dateofbirth_3i
+radoo=licencetype_t
+occup=user_occupation_id
+street=user_address_attributes_street
+city=user_address_attributes_city
+country=user_address_attributes_county
+postcode=user_address_attributes_postcode
+email=user_user_detail_attributes_email
+password=user_user_detail_attributes_password
+passwordconfo=user_user_detail_attributes_password_confirmation
+submitt=submit
+ema=email
+passww=password
+submittt=submit

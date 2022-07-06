@@ -1,0 +1,15 @@
+
+url=https://demo.guru99.com/insurance/v1/header.php
+RetriveQuotation=retrieve
+input=id
+retrieve=getquote
+user_id=//tbody/tr[4]/td[1]/b[1]
+37895=//tbody/tr[4]/td[2]
+Registration=//tbody/tr[6]/td[1]/b[1]
+dddd=//tbody/tr[6]/td[2]
+Annual mileage=//tbody/tr[7]/td[1]/b[1]
+ffff=//tbody/tr[7]/td[2]
+Estimated value=//tbody/tr[8]/td[1]/b[1]
+eeee=//tbody/tr[8]/td[2]
+Start of policy=//tbody/tr[10]/td[1]
+2016.10.17=//tbody/tr[10]/td[2]

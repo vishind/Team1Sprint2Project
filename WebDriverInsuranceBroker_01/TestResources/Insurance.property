@@ -1,0 +1,20 @@
+
+url=https://demo.guru99.com/insurance/v1/header.php
+editprofile=editprofile
+pagetitle=//h1[contains(text(),'Editing user profile')]
+title=user_title
+surname=user_surname
+firstname=user_firstname
+phone=user_phone
+year=user_dateofbirth_1i
+month=user_dateofbirth_2i
+date=user_dateofbirth_3i
+licence=user_licencetype_f
+years=user_licenceperiod
+occupation=user_occupation_id
+street=user_address_attributes_street
+city=user_address_attributes_city
+country=user_address_attributes_county
+pincode=user_address_attributes_postcode
+update=commit
+logout=//body/div[3]/form[1]/input[1]

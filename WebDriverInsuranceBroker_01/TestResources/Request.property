@@ -1,0 +1,17 @@
+
+url = https://demo.guru99.com/insurance/v1/header.php
+reqQuotation = newquote
+bdc = quotation_breakdowncover
+rad = quotation_windscreenrepair_f
+incident = quotation_incidents
+registration = quotation_vehicle_attributes_registration
+mileage = quotation_vehicle_attributes_mileage
+vehicle = quotation_vehicle_attributes_value
+location = quotation_vehicle_attributes_parkinglocation
+year = quotation_vehicle_attributes_policystart_1i
+month = quotation_vehicle_attributes_policystart_2i
+date = quotation_vehicle_attributes_policystart_3i
+calculate = //body/div[3]/div[1]/div[2]/form[1]/div[8]/input[1]
+premium = calculatedpremium
+saveQuot = //body/div[3]/div[1]/div[2]/form[1]/div[8]/input[3]
+quotNo = /html[1]/body[1]

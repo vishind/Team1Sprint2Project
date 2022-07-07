@@ -1,0 +1,28 @@
+Vishal Shivaji Shinde
+-->Launch the home page,Click on Register, fill details to register,click on register submit,
+-->Enter email,password,click on submit
+-->validate signas "email address"
+-->validate text "Broker Insurance Webpage"
+--------------------------------------------------------------------------------------------
+Pranab Haldar
+-->click on Request Quotation,fill the Qoutation,click on Calculate Premium
+-->Validate Premium
+-->Click on save Qoutation
+--------------------------------------------------------------------------------------------
+Subhashri Bijayalaxmi Barik
+-->Click on Request Quotation, Click on Save Qoutation
+-->Navigate Back
+-->Click on Retrieve Quotation,Add Identification Number,Click On Retrieve
+--------------------------------------------------------------------------------------------
+Durga Singham
+-->Click on Retrieve Quotation,Add Identification Number,Click On Retrieve
+-->Validate All Details of Retrieve Quotation
+-->Navigate Back
+--------------------------------------------------------------------------------------------
+Pavni Majjiga
+-->Click on Edit Profile
+-->Fill Information
+-->Click On Update User
+-->Click On LogOut
+-->Validate Page Header
+--------------------------------------------------------------------------------------------

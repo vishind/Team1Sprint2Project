@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="50.311">
+    <testcase classname="Request a quotation" name="Successfully requested a quotation" time="49.775">
+        <system-out><![CDATA[Given User is on Request Quotation page.....................................passed
+When User enters Quotation details..........................................passed
+And User clicks Calculate Premium btn.......................................passed
+Then User clicks Save Quotation btns........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
